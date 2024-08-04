@@ -1,16 +1,28 @@
-# auth_flutter
 
-A new Flutter project.
+# Flutter Project Starter
 
-## Getting Started
+This is a template to get started with your project without setting up the basic stuff. Below are the things this Flutter project template consists of:
 
-This project is a starting point for a Flutter application.
+- Flutter Bloc & Clean Architecture
+- Proper folder structure
+- Routing using Go Router
+- get_it for Dependency Injection
+- Material You ready
+- Flutter Web ready with URL strategy
+- Manage secret keys using Envied
+  
 
-A few resources to get you started if this is your first Flutter project:
+## Get started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Clone this project
+- Run pub get to fetch all packages
+- Compile and run the initial project
+- Make important changes like Name, Package Name, Description etc.
+- Start development
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Roadmap
+
+- Improve the template with a more suitable setup
+- Convert the manual setup process into an automated setup
+- Explore the ways to achieve the automation
+
